@@ -1,0 +1,28 @@
+name: SMCH
+favicon: null
+layout_spectrum: 0.4656731707509607
+typography_spectrum: 0.28998042712919414
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8983368291519582
+  lightness: 0.2775225741788745
+  saturation: 0.21988702774979174
+  rhythmicContrast: 0.9291027013678104
+purpose: []
