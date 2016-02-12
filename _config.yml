@@ -1,7 +1,7 @@
 name: SMCH
 favicon: null
-layout_spectrum: 0.4656731707509607
-typography_spectrum: 0.28998042712919414
+layout_spectrum: 1
+typography_spectrum: 0.04487
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.8983368291519582
-  lightness: 0.2775225741788745
-  saturation: 0.21988702774979174
+    - '#ffffff'
+    - '#161616'
+    - '#a2a2a2'
+    - '#615137'
+    - '#369f7e'
+  brandStrength: 0.3125
+  lightness: 0.3125
+  saturation: 0.75
   rhythmicContrast: 0.9291027013678104
 purpose: []
