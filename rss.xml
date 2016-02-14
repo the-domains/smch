@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[SMCH]]></title>
         <description><![CDATA[SMCH]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/smch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 04:27:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 14 Feb 2016 10:52:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/smch/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>SMCH Reach Out Outreach</p>]]></description>
-            <link>undefined52d60372-d74b-4a84-bece-de6093e84b4d/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31699afd-0a63-4dac-b98b-6036c6f2bd7e.JPG">]]></description>
+            <link>https://thegrid.ai/smch/52d60372-d74b-4a84-bece-de6093e84b4d/index.html</link>
             <guid isPermaLink="false">52d60372-d74b-4a84-bece-de6093e84b4d</guid>
-            <pubDate>Fri, 12 Feb 2016 04:27:49 GMT</pubDate>
+            <pubDate>Sun, 14 Feb 2016 10:50:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
