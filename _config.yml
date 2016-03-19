@@ -1,7 +1,7 @@
 name: SMCH
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.04487
+layout_spectrum: 0.45437
+typography_spectrum: 0.06413
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#41e8e2'
     - '#e8a300'
     - '#0092a8'
-  brandStrength: 0
-  lightness: 0.3125
-  saturation: 1
-  rhythmicContrast: 0.9291027013678104
+  brandStrength: 0.0625
+  lightness: 0.125
+  saturation: 0.3125
+  rhythmicContrast: 0.25
 purpose: []
